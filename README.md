@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-  Blog: 
+  <h3>Blog:</h3>(Notion)  https://www.notion.so/1098cdfa1ed080989b43fb79857a43ea
 </div>
+<br>
 
 - 학습하며 진행한 프로젝트입니다.
   - 리포지토리1
