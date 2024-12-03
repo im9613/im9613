@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=안녕하세요~👋방문감사합니다.&fontSize=24)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=안녕하세요~👋&fontSize=24)
 <!--
 **im9613/im9613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
