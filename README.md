@@ -71,9 +71,11 @@ Here are some ideas to get you started:
 <br>
 
 - 학습하며 진행한 프로젝트입니다.
-  - 리포지토리1
-  - 리포지토리2
-  - 리포지토리3
+  - [자바콘솔 테니스계수기 프로젝트](https://github.com/im9613/JavaTennisScore.git)
+  - [네이버Movie DB설계 실습](https://github.com/im9613/MovieDataBase.git)
+  - [오라클 교육센터 DB설계 프로젝트](https://github.com/im9613/EduCenter-DataBase.git)
+  - [스프링프레임워크 실습 프로젝트](https://github.com/im9613/SpringPet.git)
+  - 
 
 
 
