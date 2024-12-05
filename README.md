@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   - [네이버Movie DB설계 실습](https://github.com/im9613/MovieDataBase.git)
   - [오라클 교육센터 DB설계 프로젝트](https://github.com/im9613/EduCenter-DataBase.git)
   - [스프링프레임워크 실습 프로젝트](https://github.com/im9613/SpringPet.git)
-  - 
+  - [스프링부트 실습 프로젝트](https://github.com/im9613/SpringBootProject-bidon.git)
 
 
 
